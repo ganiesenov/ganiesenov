@@ -7,9 +7,9 @@ ganiesenov/ganiesenov is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<!---
 ![Gani GitHub stats](https://github-readme-stats.vercel.app/api?username=ganiesenov&show_icons=true&theme=tokyonight)
-
+--->
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
