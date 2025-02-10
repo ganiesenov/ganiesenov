@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gani. I am a PhD student and Senior Data Scientist. I love learning new technologies and keep up with Innovations!
-- 👀 I’m interested in Artificial Intelligence and Machine Learning 
-- 🌱 I’m currently learning Data Science and Data Analysis
+- 👀 I’m interested in AI, GenAI, LLMS, LLM agents
+- 🌱 I’m currently learning LLMs and doing NLP projects 
 
 <!---
 ganiesenov/ganiesenov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
