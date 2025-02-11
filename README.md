@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gani. I am a PhD student and Senior Data Scientist. I love learning new technologies and keep up with Innovations!
-- 👀 I’m interested in AI, GenAI, LLMS, LLM agents
+- 👀 I’m passionate about AI, GenAI, LLMS, LLM agents
 - 🌱 I’m currently learning LLMs and doing NLP projects 
 
 <!---
